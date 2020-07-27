@@ -1,0 +1,37 @@
+p { 
+    margin: 8px; 
+    font-size:16px; 
+}
+
+.selected { 
+    color:blue; 
+}
+
+.description{
+    display : none;
+    margin : 30px 0;
+    padding : 30px 0;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.tab{
+    margin : 10px;
+    padding : 10px;
+}
+
+#contaioner{
+    height: 400px;
+}
+
+main{
+    height: 1500px;
+}
+
+.B{
+    background-color : yellow;
+}

@@ -3,9 +3,6 @@ p {
     font-size:16px; 
 }
 
-.selected { 
-    color:blue; 
-}
 
 .description{
     display : none;
@@ -30,8 +27,4 @@ ul{
 
 main{
     height: 1500px;
-}
-
-.B{
-    background-color : yellow;
 }
